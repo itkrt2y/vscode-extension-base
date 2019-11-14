@@ -1,9 +1,9 @@
 {
-  "name": "vscode-extension-base",
-  "displayName": "vscode-extension-base",
+  "name": "vscode-extension-template",
+  "displayName": "vscode-extension-template",
   "description": "",
   "version": "0.0.1",
-  "publisher": "vscode-samples",
+  "publisher": "itkrt2y",
   "engines": {
     "vscode": "^1.37.0"
   },
